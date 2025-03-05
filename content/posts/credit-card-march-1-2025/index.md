@@ -3,6 +3,7 @@ title: "Thẻ Debit & Credit – Bạn đã dùng đúng chưa? 🤔"
 date: 2025-03-01
 draft: false
 summary: "Cách sử dụng thẻ Debit và Credit đúng cách"
+layout: "simple"
 ---
 
 ### Thẻ Debit & Credit – Bạn đã dùng đúng chưa? 🤔

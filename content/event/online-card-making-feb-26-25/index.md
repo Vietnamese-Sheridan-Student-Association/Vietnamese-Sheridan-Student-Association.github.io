@@ -3,6 +3,7 @@ title: "🌸🌸🌸 Online Card Making Contest 🌸🌸🌸"
 date: 2025-02-26
 summary: "Our New Event For The Women Day - August 3rd "
 tags: ["event", "online"]
+layout: "simple"
 ---
 
 ![Online Card Making Contest Banner](./a.jpg)

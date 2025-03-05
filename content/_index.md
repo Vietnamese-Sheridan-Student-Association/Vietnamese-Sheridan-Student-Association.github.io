@@ -2,7 +2,7 @@
 layout: "simple"
 ---
 
-# Welcome to the Vietnamese Student Association (VSA) at Sheridan College!
+# Welcome to VSA at Sheridan College!
 
 We are thrilled to have you here! The **Vietnamese Student Association (VSA)** at Sheridan College is dedicated to helping Vietnamese students adapt to life abroad and engage in building a vibrant community. Our mission is to provide support, foster connections, and create opportunities for personal and professional growth. Join us to make the most of your experience at Sheridan College and beyond!
 

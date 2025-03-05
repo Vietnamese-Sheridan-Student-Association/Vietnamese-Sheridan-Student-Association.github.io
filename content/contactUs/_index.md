@@ -32,6 +32,16 @@ You can email us at: [vsa.sheridancollege@gmail.com](mailto:vsa.sheridancollege@
 
 Give us a call at: +1 (416) 857-6607 - President - Ben Nguyen
 
+
+
+## 🌐 Social Media
+
+Follow us on social media:
+- [Facebook](https://facebook.com/VSA.Sheridan) 📘
+- [Instagram](https://instagram.com/vietnam.sheridancollege) 📸
+- [LinkedIn](https://linkedin.com/company/sheridan-vietnamese-students%e2%80%99-association) 💼
+
+
 ## 📍 Campus Location
 
 We are based in:    

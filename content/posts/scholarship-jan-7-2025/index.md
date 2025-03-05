@@ -2,7 +2,8 @@
 title: "Cách Mình Đã Chinh Phục Scholarship $1000 Và $10000 Trong Năm Học Thứ Ba Tại Sheridan College"
 date: 2025-01-07
 draft: false
-summary: "Cách sử dụng thẻ Debit và Credit đúng cách"
+summary: "Hãy cùng tìm hiểu làm sao để có được học bổng ngàn đô nhé"
+layout: "simple"
 ---
 
 

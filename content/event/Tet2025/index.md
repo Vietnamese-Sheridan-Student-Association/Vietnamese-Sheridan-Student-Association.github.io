@@ -3,6 +3,7 @@ title: "🌸 “𝐓𝐞̂́𝐭 𝐍𝐨̛𝐢 𝐗𝐚 - 𝐀̂́𝐦 𝐀́�
 date: 2025-01-25
 summary: "VSA thật hạnh phúc khi được cùng các bạn tái hiện một góc xuân Việt với những hoạt động ý nghĩa như thi thời trang giấy, trang trí cành mai, cành đào, và các trò chơi dân gian đầy niềm vui. Những tiếng cười và khoảnh khắc sum vầy chính là điều làm nên sự đặc biệt của sự kiện lần này. 💖"
 tags: ["event", "in-person"]
+layout: "simple"
 ---
 [𝐄𝐯𝐞𝐧𝐭 𝐓𝐞̂́𝐭 𝐍𝐠𝐮𝐲𝐞̂𝐧 Đ𝐚́𝐧 𝟐𝟎𝟐𝟓] 🧧 “𝐓𝐞̂́𝐭 𝐧𝐨̛𝐢 𝐱𝐚 - 𝐀̂́𝐦 𝐚́𝐩 𝐭𝐮̛̣𝐚 𝐧𝐡𝐚̀” 🧧  
 “Mừng Tết đến, vạn lộc đến nhà nhà

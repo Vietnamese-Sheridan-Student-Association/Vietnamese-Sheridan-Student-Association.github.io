@@ -3,6 +3,7 @@ title: "~ VSA ZenZest Fest 2024 ~"
 date: 2024-10-24
 summary: "Các bạn có cảm thấy căng thẳng sau những bài kiểm tra và deadlines sau nửa chặng được của học kì không? 😓 Đừng lo lắng, ZenZest Fest sẽ là liều thuốc giúp bạn sạc lại năng lượng ngay đây! ⚡Sự kiện nhằm để giúp bạn được kết nối với bạn bè sau những ngày học tập căng thẳng"
 tags: ["event", "in-person"]
+layout: "simple"
 ---
 
 Với những hoạt động thú vị từ ZenZest Fest như
