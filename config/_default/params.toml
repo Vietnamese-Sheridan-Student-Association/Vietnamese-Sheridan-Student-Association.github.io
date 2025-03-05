@@ -28,9 +28,9 @@ showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = false
-cardViewScreenWidth = false
+cardViewScreenWidth = true
 layoutBackgroundBlur = false
-homepageImage = "472749423_581832594641549_293171629717093933_n.jpg"
+homepageImage = "background-tet.jpg"
 
 [article]
 layout = "card"
