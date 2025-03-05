@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> </title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</managingEditor>
     <webMaster>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</webMaster>
-    <copyright>&amp;copy; VSA Hong Cho Copy - All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2025 VSA Hong Cho Copy - All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Thẻ Debit &amp; Credit – Bạn đã dùng đúng chưa? 🤔</title>
-      <link>https://example.org/posts/credit-card-march-1-2025/</link>
+      <link>http://localhost:1313/posts/credit-card-march-1-2025/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <author>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</author>
-      <guid>https://example.org/posts/credit-card-march-1-2025/</guid>
+      <guid>http://localhost:1313/posts/credit-card-march-1-2025/</guid>
       <description>Cách sử dụng thẻ Debit và Credit đúng cách</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/credit-card-march-1-2025/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/credit-card-march-1-2025/feature.jpg" />
     </item>
     
     <item>
       <title>🌸🌸🌸 Online Card Making Contest 🌸🌸🌸</title>
-      <link>https://example.org/event/online-card-making-feb-26-25/</link>
+      <link>http://localhost:1313/event/online-card-making-feb-26-25/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <author>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</author>
-      <guid>https://example.org/event/online-card-making-feb-26-25/</guid>
+      <guid>http://localhost:1313/event/online-card-making-feb-26-25/</guid>
       <description>Our New Event For The Women Day - August 3rd</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/event/online-card-making-feb-26-25/feature.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/event/online-card-making-feb-26-25/feature.jpeg" />
     </item>
     
     <item>
       <title>🌸 “𝐓𝐞̂́𝐭 𝐍𝐨̛𝐢 𝐗𝐚 - 𝐀̂́𝐦 𝐀́𝐩 𝐓𝐮̛̣𝐚 𝐍𝐡𝐚̀” - VSA Lunar New Year 2025 🌸</title>
-      <link>https://example.org/event/tet2025/</link>
+      <link>http://localhost:1313/event/tet2025/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       <author>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</author>
-      <guid>https://example.org/event/tet2025/</guid>
+      <guid>http://localhost:1313/event/tet2025/</guid>
       <description>VSA thật hạnh phúc khi được cùng các bạn tái hiện một góc xuân Việt với những hoạt động ý nghĩa như thi thời trang giấy, trang trí cành mai, cành đào, và các trò chơi dân gian đầy niềm vui. Những tiếng cười và khoảnh khắc sum vầy chính là điều làm nên sự đặc biệt của sự kiện lần này. 💖</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/event/tet2025/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/event/tet2025/feature.jpg" />
     </item>
     
     <item>
       <title>Cách Mình Đã Chinh Phục Scholarship $1000 Và $10000 Trong Năm Học Thứ Ba Tại Sheridan College</title>
-      <link>https://example.org/posts/scholarship-jan-7-2025/</link>
+      <link>http://localhost:1313/posts/scholarship-jan-7-2025/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       <author>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</author>
-      <guid>https://example.org/posts/scholarship-jan-7-2025/</guid>
+      <guid>http://localhost:1313/posts/scholarship-jan-7-2025/</guid>
       <description>Hãy cùng tìm hiểu làm sao để có được học bổng ngàn đô nhé</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/scholarship-jan-7-2025/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/scholarship-jan-7-2025/feature.jpg" />
     </item>
     
     <item>
       <title>~ VSA ZenZest Fest 2024 ~</title>
-      <link>https://example.org/event/zenfest/</link>
+      <link>http://localhost:1313/event/zenfest/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
       <author>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</author>
-      <guid>https://example.org/event/zenfest/</guid>
+      <guid>http://localhost:1313/event/zenfest/</guid>
       <description>Các bạn có cảm thấy căng thẳng sau những bài kiểm tra và deadlines sau nửa chặng được của học kì không? 😓 Đừng lo lắng, ZenZest Fest sẽ là liều thuốc giúp bạn sạc lại năng lượng ngay đây! ⚡Sự kiện nhằm để giúp bạn được kết nối với bạn bè sau những ngày học tập căng thẳng</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/event/zenfest/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/event/zenfest/feature.jpg" />
     </item>
     
   </channel>

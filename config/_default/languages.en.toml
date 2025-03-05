@@ -12,5 +12,5 @@ dateFormat = "2 January 2006"
 logo = "VSA 2025 - Official logos-02.png"
 secondaryLogo = "VSA 2025 - Official logos-12.png"
 description = "The Vietnamese Student Association (VSA) at Sheridan College is dedicated to helping Vietnamese students adapt to life abroad and engage in building a vibrant community. Our mission is to provide support, foster connections, and create opportunities for personal and professional growth. Join us to make the most of your experience at Sheridan College and beyond!"
-copyright = "&copy; VSA Hong Cho Copy - All Rights Reserved"
+copyright = "&copy; 2025 VSA Hong Cho Copy - All Rights Reserved"
 author = { name = "Vietnamese Student Association", email = "vsa.sheridancollege@gmail.com", links = [ { facebook = "https://facebook.com/VSA.Sheridan" }, { instagram = "https://instagram.com/vietnam.sheridancollege" }, { linkedin = "https://linkedin.com/company/sheridan-vietnamese-students’-association" } ] }
