@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/contactus/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</managingEditor>
+    <webMaster>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</webMaster>
+    <copyright>© VSA Hong Cho Copy - All Right Reserve</copyright>
+    <atom:link href="http://localhost:1313/contactus/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

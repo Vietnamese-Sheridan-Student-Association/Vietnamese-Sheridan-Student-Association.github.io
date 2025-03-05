@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>In-Person on </title>
+    <link>http://localhost:1313/tags/in-person/</link>
+    <description>Recent content in In-Person on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</managingEditor>
+    <webMaster>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</webMaster>
+    <copyright>© VSA Hong Cho Copy - All Right Reserve</copyright>
+    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/in-person/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🌸 “𝐓𝐞̂́𝐭 𝐍𝐨̛𝐢 𝐗𝐚 - 𝐀̂́𝐦 𝐀́𝐩 𝐓𝐮̛̣𝐚 𝐍𝐡𝐚̀” - VSA Lunar New Year 2025 🌸</title>
+      <link>http://localhost:1313/event/tet2025/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <author>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</author>
+      <guid>http://localhost:1313/event/tet2025/</guid>
+      <description>VSA thật hạnh phúc khi được cùng các bạn tái hiện một góc xuân Việt với những hoạt động ý nghĩa như thi thời trang giấy, trang trí cành mai, cành đào, và các trò chơi dân gian đầy niềm vui. Những tiếng cười và khoảnh khắc sum vầy chính là điều làm nên sự đặc biệt của sự kiện lần này. 💖</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/event/tet2025/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>~ VSA ZenZest Fest 2024 ~</title>
+      <link>http://localhost:1313/event/zenfest/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <author>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</author>
+      <guid>http://localhost:1313/event/zenfest/</guid>
+      <description>Các bạn có cảm thấy căng thẳng sau những bài kiểm tra và deadlines sau nửa chặng được của học kì không? 😓 Đừng lo lắng, ZenZest Fest sẽ là liều thuốc giúp bạn sạc lại năng lượng ngay đây! ⚡Sự kiện nhằm để giúp bạn được kết nối với bạn bè sau những ngày học tập căng thẳng</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/event/zenfest/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

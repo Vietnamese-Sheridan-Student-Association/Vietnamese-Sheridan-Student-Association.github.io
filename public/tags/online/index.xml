@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online on </title>
+    <link>http://localhost:1313/tags/online/</link>
+    <description>Recent content in Online on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</managingEditor>
+    <webMaster>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</webMaster>
+    <copyright>© VSA Hong Cho Copy - All Right Reserve</copyright>
+    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/online/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🌸🌸🌸 Online Card Making Contest 🌸🌸🌸</title>
+      <link>http://localhost:1313/event/online-card-making-feb-26-25/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <author>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</author>
+      <guid>http://localhost:1313/event/online-card-making-feb-26-25/</guid>
+      <description>Our New Event For The Women Day - August 3rd</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/event/online-card-making-feb-26-25/feature.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

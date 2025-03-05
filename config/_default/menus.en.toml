@@ -1,0 +1,33 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Registration Link"
+pre = "envelope"
+pageRef = "registrationLink"
+identifier = "qkBUakZUpC"
+weight = 1
+
+[[main]]
+name = "Posts"
+pre = "blogger"
+pageRef = "posts"
+identifier = "VjedDE0Fmj"
+weight = 2
+
+[[main]]
+name = "Contact Us"
+pre = "phone"
+pageRef = "contactUs"
+identifier = "3s5BGcLa8w"
+weight = 4
+
+[[main]]
+name = "Event"
+pre = "heart"
+pageRef = "event"
+identifier = "8xNFEvvqtP"
+weight = 3
+
+[[footer]]
+none = "none"
