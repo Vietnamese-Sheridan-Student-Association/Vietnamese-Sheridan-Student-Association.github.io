@@ -1,4 +1,6 @@
 
+<div>
+
 ![Event Banner](./Hiking.png)
 
 🌟 **Join Us for an Unforgettable Day at Riverwood Trail!** 🌟  
@@ -22,38 +24,33 @@ See you there! 👋
 
 {{< timeline >}}
 
-{{< timelineItem icon="github" header="Time Line Kế Hoạch Cho 2025" subheader="Vietnamese Student Association" >}}Đây là Time Line Kế Hoạch Cho 2025 thật thành công và bùng nổ cùng với VSA 👋  👋  👋  
+{{< timelineItem icon="eye" header="Time Line Kế Hoạch Cho 2025" subheader="Vietnamese Student Association" >}}Đây là Time Line Kế Hoạch Cho 2025 thật thành công và bùng nổ cùng với VSA 👋  👋  👋  
 {{< /timelineItem >}}
 
-
-{{< timelineItem icon="star" header="Card Making Contest" badge="Online" subheader="Designing Digital - Paper Card" >}}
+{{< timelineItem icon="lightbulb" header="Card Making Contest" badge="Online" subheader="Designing Digital - Paper Card" >}}
   <img src="image/march.png" class="grid-w133" />
 {{< /timelineItem >}}
 
-
-{{< timelineItem icon="star" header="Echoes Of Serenity" badge="In Person" subheader="Join Us and Have Fun" >}}
+{{< timelineItem icon="heart" header="Echoes Of Serenity" badge="In Person" subheader="Join Us and Have Fun" >}}
   <img src="image/hiking.png" class="grid-w133" />
 {{< /timelineItem >}}
 
-
-{{< timelineItem icon="star" header="E-Sport Tournament" badge="Hybrid" subheader="League Of Legends" >}}
+{{< timelineItem icon="dribbble" header="E-Sport Tournament" badge="Hybrid" subheader="League Of Legends" >}}
   <img src="image/may.png" class="grid-w133" />
 {{< /timelineItem >}}
 
-
-{{< timelineItem icon="star" header="Graduation Ceremony" badge="In Person" subheader="Congratulation To New Grads at Sheridan College" >}}
+{{< timelineItem icon="graduation-cap" header="Graduation Ceremony" badge="In Person" subheader="Congratulation To New Grads at Sheridan College" >}}
   <img src="image/june.png" class="grid-w133" />
 {{< /timelineItem >}}
 
-
-{{< timelineItem icon="star" header="Canada Unlocked" badge="In Person" subheader="Welcome Event for Vietnamese Students at Sheridan College" >}}
+{{< timelineItem icon="globe" header="Canada Unlocked" badge="In Person" subheader="Welcome Event for Vietnamese Students at Sheridan College" >}}
   <img src="image/sep.png" class="grid-w133" />
 {{< /timelineItem >}}
 
-{{< timelineItem icon="star" header="Merry Click-Mas" badge="Online" subheader="Photos and Video Contest" >}}
+{{< timelineItem icon="wand-magic-sparkles" header="Merry Click-Mas" badge="Online" subheader="Photos and Video Contest" >}}
   <img src="image/dec.png" class="grid-w133" />
 {{< /timelineItem >}}
 
-
 {{< /timeline >}}
 
+</div>
