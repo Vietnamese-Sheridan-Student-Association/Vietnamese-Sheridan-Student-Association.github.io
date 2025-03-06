@@ -1,6 +1,6 @@
 colorScheme = "blowfish"
 defaultAppearance = "light"
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 replyByEmail = false

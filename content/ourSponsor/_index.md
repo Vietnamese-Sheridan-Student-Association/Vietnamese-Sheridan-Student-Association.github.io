@@ -5,6 +5,7 @@ layout: "simple"
 <div class="full-width">
   {{< typeit 
     tag=h1
+    speed=10
     lifeLike=true
   >}}
   ## 💕 A big thanks to any individuals and organizations that helped make this magic happen. 🔥🥰{{< /typeit >}}
