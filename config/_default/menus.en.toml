@@ -3,35 +3,30 @@ none = "none"
 
 [[main]]
 name = "Registration Link"
-pre = "envelope"
 pageRef = "registrationLink"
 identifier = "qkBUakZUpC"
 weight = 1
 
 [[main]]
 name = "Posts"
-pre = "blogger"
 pageRef = "posts"
 identifier = "VjedDE0Fmj"
 weight = 3
 
 [[main]]
 name = "Contact Us"
-pre = "phone"
 pageRef = "contactUs"
 identifier = "3s5BGcLa8w"
 weight = 5
 
 [[main]]
 name = "Event"
-pre = "heart"
 pageRef = "event"
 identifier = "8xNFEvvqtP"
 weight = 2
 
 [[main]]
 name = "Our Sponsor"
-pre = "fire"
 pageRef = "ourSponsor"
 identifier = "Ks4TCG77WB"
 weight = 4
