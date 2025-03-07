@@ -51,6 +51,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/about/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/contactus/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -61,7 +66,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/registrationlink/</loc>
+    <loc>http://localhost:1313/timeline/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

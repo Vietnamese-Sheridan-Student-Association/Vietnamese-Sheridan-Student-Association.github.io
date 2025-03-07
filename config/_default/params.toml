@@ -29,7 +29,7 @@ showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = true
-layoutBackgroundBlur = false
+layoutBackgroundBlur = true
 homepageImage = "background-tet.jpg"
 
 [article]

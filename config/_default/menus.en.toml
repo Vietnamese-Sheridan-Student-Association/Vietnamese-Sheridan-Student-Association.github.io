@@ -2,10 +2,10 @@
 none = "none"
 
 [[main]]
-name = "Registration Link"
-pageRef = "registrationLink"
+name = "2025 Event Plan"
+pageRef = "timeLine"
 identifier = "qkBUakZUpC"
-weight = 1
+weight = 2
 
 [[main]]
 name = "Posts"
@@ -17,19 +17,25 @@ weight = 3
 name = "Contact Us"
 pageRef = "contactUs"
 identifier = "3s5BGcLa8w"
-weight = 5
+weight = 6
 
 [[main]]
 name = "Event"
 pageRef = "event"
 identifier = "8xNFEvvqtP"
-weight = 2
+weight = 4
 
 [[main]]
 name = "Our Sponsor"
 pageRef = "ourSponsor"
 identifier = "Ks4TCG77WB"
-weight = 4
+weight = 5
+
+[[main]]
+name = "About"
+pageRef = "about"
+identifier = "vk7KDyZfVQ"
+weight = 1
 
 [[footer]]
 none = "none"
