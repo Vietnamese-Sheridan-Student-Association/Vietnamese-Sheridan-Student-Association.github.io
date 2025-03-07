@@ -1,5 +1,5 @@
 ---
-layout: "simple"
+layout: "page"
 ---
 
 # Welcome to VSA at Sheridan College!

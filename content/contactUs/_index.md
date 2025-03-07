@@ -7,7 +7,12 @@ layout: "simple"
 We'd love to hear from you! Whether you have questions, need information, or just want to say hi, feel free to reach out.
 
 ## 📧 Email
-You can email us at: [vsa.sheridancollege@gmail.com](mailto:vsa.sheridancollege@gmail.com)
+General:  [support@sheridanvsa.ca](mailto:suppot@sheridanvsa.ca)  
+
+Event Related:  [event@sheridanvsa.ca](mailto:event@sheridanvsa.ca)   
+
+Sponsorship:  [vsa.sheridancollege@gmail.com](mailto:vsa.sheridancollege@gmail.com)  
+
 
 ## 📱 Phone
 Give us a call at: +1 (416) 857-6607 - President - Ben Nguyen
