@@ -2,34 +2,14 @@
 layout: "simple"
 ---
 
-<div class="full-width">
-    {{< typeit 
-        tag=h1
-        lifeLike=true
-    >}}
-# Contact Us  📞 {{< /typeit >}}
-</div>
+## Contact Us  📞
 
 We'd love to hear from you! Whether you have questions, need information, or just want to say hi, feel free to reach out.
 
-<div class="full-width">
-    {{< typeit 
-        tag=h2
-        lifeLike=true
-    >}}
-## 📧 Email{{< /typeit >}}
-</div>
-
+## 📧 Email
 You can email us at: [vsa.sheridancollege@gmail.com](mailto:vsa.sheridancollege@gmail.com)
 
-<div class="full-width">
-    {{< typeit 
-        tag=h2
-        lifeLike=true
-    >}}
-## 📱 Phone{{< /typeit >}}
-</div>
-
+## 📱 Phone
 Give us a call at: +1 (416) 857-6607 - President - Ben Nguyen
 
 
