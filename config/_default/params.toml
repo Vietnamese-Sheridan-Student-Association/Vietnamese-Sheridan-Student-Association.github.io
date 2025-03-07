@@ -8,7 +8,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
-defaultBackgroundImage = "background-tet.jpg"
+defaultBackgroundImage = "qtewoman.jpeg"
 defaultFeaturedImage = "WhatsApp Image 2025-02-08 at 01.27.24.jpeg"
 
 [header]
@@ -30,7 +30,7 @@ showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = true
 layoutBackgroundBlur = true
-homepageImage = "background-tet.jpg"
+homepageImage = "qtewoman.jpeg"
 
 [article]
 layout = "card"
