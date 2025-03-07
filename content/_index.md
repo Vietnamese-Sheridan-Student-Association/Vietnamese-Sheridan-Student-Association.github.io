@@ -27,7 +27,7 @@ We are thrilled to have you here! The **Vietnamese Student Association (VSA)** a
   <tr>
     <td style="padding: 15px; text-align: center;"><img src="./tung.png" alt="Tung Le" style="width: 480px; height: auto;" /></td>
     <td style="padding: 15px; text-align: center;"><img src="./huy.png" alt="Vu Anh Huy Nguyen" style="width: 480px; height: auto;" /></td>
-    <td style="padding: 15px; text-align: center;"><img src="./alice.png" alt="Minh Anh" style="width: 480px; height: auto;" /></td>
+    <td style="padding: 15px; text-align: center;"><img src="./alice.jpg" alt="Minh Anh" style="width: 480px; height: auto;" /></td>
     <td style="padding: 15px; text-align: center;"><img src="./phu.png" alt="Manh Phu Giang" style="width: 480px; height: auto;" /></td>
   </tr>
   <tr>
