@@ -2,12 +2,12 @@
 layout: "simple"
 ---
 
-🎉 **Meet the VSA Team for 2024-2025!** 🎉
+## 🎉 **This is the VSA Team for 2024-2025!** 🎉
 
 The Vietnamese Student Association (VSA) is all about celebrating Vietnamese culture and heritage within our student community. 🌟 Our mission? To create a welcoming space where Vietnamese students can connect, grow, and thrive. We’re here to support your academic and personal journey, and we can’t wait to share our vibrant traditions through awesome cultural events! 🇻🇳✨
 
 
-## Meet Our Team
+## Meet Our Dedicated Members Who Volunteer Their Time to Build a Better Community
 
 <table style="width: 90%; text-align: center; margin-left: auto; margin-right: auto;">
     <tr>
