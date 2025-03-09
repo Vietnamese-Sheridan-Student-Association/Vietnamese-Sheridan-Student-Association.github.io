@@ -12,5 +12,5 @@ Tết Nguyên Đán đang đến gần, các bạn sinh viên Việt Nam tại S
 
 
 {{< gallery >}}
-  <img src="image/1.jpg" class="grid-w150 md:grid-w133 xl:grid-w125" />
+  <img src="image/1.png" class="grid-w150 md:grid-w133 xl:grid-w125" />
 {{< /gallery >}}
