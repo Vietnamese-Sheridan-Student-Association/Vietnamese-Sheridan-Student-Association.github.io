@@ -13,15 +13,15 @@ The Vietnamese Student Association (VSA) is all about celebrating Vietnamese cul
 <tr>
     <td style="padding: 15px; text-align: center;">
         <img src="./image/anh-ben.jpeg" alt="Ben Nguyen" 
-             style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1" />
+             style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1; border-radius: 15px" />
     </td>
     <td style="padding: 15px; text-align: center;">
         <img src="./image/tam.jpg" alt="Tam Nguyen" 
-             style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1" />
+             style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1; border-radius: 15px" />
     </td>
     <td style="padding: 15px; text-align: center;">
         <img src="./image/tan.jpeg" alt="Tan Pham" 
-             style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1" />
+             style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1; border-radius: 15px" />
     </td>
 </tr>
     <tr>
@@ -35,19 +35,19 @@ The Vietnamese Student Association (VSA) is all about celebrating Vietnamese cul
 <tr>
     <td style="padding: 15px; text-align: center;">
         <img src="./image/tung.jpeg" alt="Tung Le" 
-             style="width: 100%; max-width: 300px; height: auto; object-fit: cover;  aspect-ratio: 1/1" />
+             style="width: 100%; max-width: 300px; height: auto; object-fit: cover;  aspect-ratio: 1/1; border-radius: 15px" />
     </td>
     <td style="padding: 15px; text-align: center;">
         <img src="./image/huy.png" alt="Vu Anh Huy Nguyen" 
-             style="width: 100%; max-width: 300px; height: auto; object-fit: cover;  aspect-ratio: 1/1" />
+             style="width: 100%; max-width: 300px; height: auto; object-fit: cover;  aspect-ratio: 1/1; border-radius: 15px" />
     </td>
     <td style="padding: 15px; text-align: center;">
         <img src="./image/alice.jpg" alt="Minh Anh" 
-             style="width: 100%; max-width: 300px; height: auto; object-fit: cover;  aspect-ratio: 1/1" />
+             style="width: 100%; max-width: 300px; height: auto; object-fit: cover;  aspect-ratio: 1/1; border-radius: 15px" />
     </td>
     <td style="padding: 15px; text-align: center;">
         <img src="./image/phu.jpg" alt="Manh Phu Giang" 
-             style="width: 100%; max-width: 300px; height: auto; object-fit: cover;  aspect-ratio: 1/1" />
+             style="width: 100%; max-width: 300px; height: auto; object-fit: cover;  aspect-ratio: 1/1; border-radius: 15px" />
     </td>
 </tr>
     <tr>
