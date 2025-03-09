@@ -12,21 +12,12 @@ The Vietnamese Student Association (VSA) is all about celebrating Vietnamese cul
 <table style="width: 90%; text-align: center; margin-left: auto; margin-right: auto;">
 <tr>
     <td style="padding: 15px; text-align: center;">
-<<<<<<< HEAD
         <img src="./image/anh-ben.jpg" alt="Ben Nguyen" 
              style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1" />
     </td>
     <td style="padding: 15px; text-align: center;">
         <img src="./image/tam.jpg" alt="Tam Nguyen" 
              style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1;" />
-=======
-        <img src="./image/anh-ben.jpeg" alt="Ben Nguyen" 
-             style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1; border-radius: 15px" />
-    </td>
-    <td style="padding: 15px; text-align: center;">
-        <img src="./image/tam.jpg" alt="Tam Nguyen" 
-             style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1; border-radius: 15px" />
->>>>>>> be48596dd3829c5e18535b2d8eca11b6d643f450
     </td>
     <td style="padding: 15px; text-align: center;">
         <img src="./image/tan.jpeg" alt="Tan Pham" 
