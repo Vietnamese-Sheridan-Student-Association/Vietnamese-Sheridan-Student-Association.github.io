@@ -13,11 +13,11 @@ The Vietnamese Student Association (VSA) is all about celebrating Vietnamese cul
 <tr>
     <td style="padding: 15px; text-align: center;">
         <img src="./image/anh-ben.jpg" alt="Ben Nguyen" 
-             style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1" />
+             style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1; border-radius: 15px" />
     </td>
     <td style="padding: 15px; text-align: center;">
         <img src="./image/tam.jpg" alt="Tam Nguyen" 
-             style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1;" />
+             style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1; border-radius: 15px" />
     </td>
     <td style="padding: 15px; text-align: center;">
         <img src="./image/tan.jpeg" alt="Tan Pham" 

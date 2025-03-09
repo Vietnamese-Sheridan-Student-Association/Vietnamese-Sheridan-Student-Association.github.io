@@ -12,7 +12,7 @@ We are thrilled to have you here! The **Vietnamese Student Association (VSA)** a
   tag=h1
   speed=10
 >}}
-  ## 🔥 VSA SHERIDAN IS LOOKING FOR EXECUTIVE TEAM & CLUB COORDINATORS! 🔥  {{< /typeit >}}
+🔥 VSA SHERIDAN IS LOOKING FOR EXECUTIVE TEAM & CLUB COORDINATORS! 🔥  {{< /typeit >}}
 
 
 # Become a Member

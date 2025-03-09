@@ -3,100 +3,100 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:50332/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:50332/posts/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/credit-card-march-1-2025/</loc>
+    <loc>http://localhost:50332/posts/credit-card-march-1-2025/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/event/</loc>
+    <loc>http://localhost:50332/event/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/event/online-card-making-feb-26-25/</loc>
+    <loc>http://localhost:50332/event/online-card-making-feb-26-25/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/event/tet2025/</loc>
+    <loc>http://localhost:50332/event/tet2025/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/scholarship-jan-7-2025/</loc>
+    <loc>http://localhost:50332/posts/scholarship-jan-7-2025/</loc>
     <lastmod>2025-01-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/event/zenfest/</loc>
+    <loc>http://localhost:50332/event/zenfest/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/event/tet2024/</loc>
+    <loc>http://localhost:50332/event/tet2024/</loc>
     <lastmod>2024-02-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/event/halloween2023/</loc>
+    <loc>http://localhost:50332/event/halloween2023/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/event/tet2023/</loc>
+    <loc>http://localhost:50332/event/tet2023/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/event/chirstmas2022/</loc>
+    <loc>http://localhost:50332/event/chirstmas2022/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/event/torontotrip2022/</loc>
+    <loc>http://localhost:50332/event/torontotrip2022/</loc>
     <lastmod>2022-09-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:50332/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/contactus/</loc>
+    <loc>http://localhost:50332/contactus/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/oursponsor/</loc>
+    <loc>http://localhost:50332/oursponsor/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/timeline/</loc>
+    <loc>http://localhost:50332/timeline/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

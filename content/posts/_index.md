@@ -5,7 +5,7 @@
         lifeLike=true
         speed=20
     >}}
-# Welcome to our post section of our club {{< /typeit >}}
+Welcome to our post section of our club {{< /typeit >}}
 </div>
 
 

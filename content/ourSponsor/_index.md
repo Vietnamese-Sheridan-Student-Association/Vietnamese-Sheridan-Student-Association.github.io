@@ -8,7 +8,7 @@ layout: "simple"
     speed=10
     lifeLike=true
   >}}
-  ## 💕 A big thanks to any individuals and organizations that helped make this magic happen. 🔥🥰{{< /typeit >}}
+  💕 A big thanks to any individuals and organizations that helped make this magic happen. 🔥🥰{{< /typeit >}}
 </div>
 
 <table style="width: 90%; text-align: center; margin-left: auto; margin-right: auto;">
