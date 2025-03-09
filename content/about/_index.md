@@ -16,7 +16,7 @@ The Vietnamese Student Association (VSA) is all about celebrating Vietnamese cul
              style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1" />
     </td>
     <td style="padding: 15px; text-align: center;">
-        <img src="./image/tam.jpeg" alt="Tam Nguyen" 
+        <img src="./image/tam.jpg" alt="Tam Nguyen" 
              style="width: 100%; max-width: 300px; height: auto; aspect-ratio: 1/1; object-fit: cover;  aspect-ratio: 1/1" />
     </td>
     <td style="padding: 15px; text-align: center;">
