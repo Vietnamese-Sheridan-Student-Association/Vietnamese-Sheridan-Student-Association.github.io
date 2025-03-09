@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> </title>
-    <link>http://localhost:50332/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</managingEditor>
     <webMaster>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</webMaster>
     <copyright>&amp;copy; 2025 VSA Hong Cho Copy - All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50332/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Thẻ Debit &amp; Credit – Bạn đã dùng đúng chưa? 🤔</title>
-      <link>http://localhost:50332/posts/credit-card-march-1-2025/</link>
+      <link>http://localhost:1313/posts/credit-card-march-1-2025/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <author>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</author>
-      <guid>http://localhost:50332/posts/credit-card-march-1-2025/</guid>
+      <guid>http://localhost:1313/posts/credit-card-march-1-2025/</guid>
       <description>Cách sử dụng thẻ Debit và Credit đúng cách</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:50332/posts/credit-card-march-1-2025/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/credit-card-march-1-2025/feature.jpg" />
     </item>
     
     <item>
       <title>Cách Mình Đã Chinh Phục Scholarship $1000 Và $10000 Trong Năm Học Thứ Ba Tại Sheridan College</title>
-      <link>http://localhost:50332/posts/scholarship-jan-7-2025/</link>
+      <link>http://localhost:1313/posts/scholarship-jan-7-2025/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       <author>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</author>
-      <guid>http://localhost:50332/posts/scholarship-jan-7-2025/</guid>
+      <guid>http://localhost:1313/posts/scholarship-jan-7-2025/</guid>
       <description>Hãy cùng tìm hiểu làm sao để có được học bổng ngàn đô nhé</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:50332/posts/scholarship-jan-7-2025/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/scholarship-jan-7-2025/feature.jpg" />
     </item>
     
   </channel>
