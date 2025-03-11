@@ -6,7 +6,7 @@ layout: "simple"
 
 ![Event Banner](./Hiking.png)
 
-🌟 **Join Us for an Unforgettable Day at Riverwood Trail!** 🌟  
+## 🌟 **Join Us for an Unforgettable Day at Riverwood Trail!** 🌟  
 
 📅 **Date:** May 3rd, 2025  
 🕙 **Time:** 10:00 AM – 4:00 PM  
