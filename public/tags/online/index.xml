@@ -21,5 +21,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/event/online-card-making-feb-26-25/feature.jpeg" />
     </item>
     
+    <item>
+      <title>𝐕𝐒𝐀 “MERRY CLICKS-MAS” 𝐂𝐎𝐍𝐓𝐄𝐒𝐓</title>
+      <link>http://localhost:1313/event/christmas2024/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <author>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</author>
+      <guid>http://localhost:1313/event/christmas2024/</guid>
+      <description>🎄“Far Apart, Close in Heart!” 🎄Bạn ơi, Giáng sinh đã tới thật gần rồiiiii! ✨</description>
+      
+    </item>
+    
   </channel>
 </rss>

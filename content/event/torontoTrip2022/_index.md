@@ -2,7 +2,7 @@
 title: "Summer One-Day-Trip with VSA & SSU"
 date: 2022-09-03
 summary: " Phá đảo Toronto Island cùng VSA và SSU 💖"
-tags: ["event", "in-person"]
+tags: ["in-person"]
 layout: "simple"
 ---
 

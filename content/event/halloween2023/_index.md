@@ -2,7 +2,7 @@
 title: "𝙑𝙎𝘼 𝙃𝙖𝙡𝙡𝙤𝙬𝙚𝙚𝙣 𝙚𝙫𝙚𝙣𝙩"
 date: 2023-10-27
 summary: "Thank you for joining our Halloween event. Happy Halloween 🎃 all the best wishes from VSA. We hope to see you guys on the next Christmas Event"
-tags: ["event", "in-person"]
+tags: ["in-person"]
 layout: "simple"
 ---
 

@@ -2,7 +2,7 @@
 title: " ☃️❄️||𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒 𝐄𝐕𝐄𝐍𝐓|| ❄️☃️"
 date: 2022-12-17
 summary: "VSA cảm ơn mọi người đã tham gia hoạt động Giáng Sinh lần này của chúng tớ 🥰 Hẹn gặp các bạn vào các hoạt động lần tới nhé 😆"
-tags: ["event", "in-person"]
+tags: ["in-person"]
 layout: "simple"
 ---
 
@@ -26,4 +26,6 @@ Join us and have fun together 🥰
 {{< gallery >}}
   <img src="image/1.jpg" class="grid-w50 md:grid-w133 xl:grid-w125" />
   <img src="image/2.jpg" class="grid-w50 md:grid-w133 xl:grid-w50" />
+  <img src="image/3.jpg" class="grid-w50 md:grid-w133 xl:grid-w50" />
+  <img src="image/4.jpg" class="grid-w50 md:grid-w133 xl:grid-w50" />
 {{< /gallery >}}
