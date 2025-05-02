@@ -17,6 +17,7 @@ We are thrilled to have you here! The **Vietnamese Student Association (VSA)** a
 ### 📅  **Date:**  **May 3rd, 2025**  
 ### 🕙 **Time:** 10:00 AM – 4:00 PM  
 ### 📍 **Location:** Riverwood Trail, Mississauga  
+### 💰 **Cost:** Free - Thanks to our sponsor Sheridan Student Union 💪
 
 We are welcome everyone - from Sheridan student to friend and family!
 
