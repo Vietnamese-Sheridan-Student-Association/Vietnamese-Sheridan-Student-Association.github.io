@@ -18,6 +18,7 @@ We are thrilled to have you here! The **Vietnamese Student Association (VSA)** a
 ### 🕙 **Time:** 10:00 AM – 4:00 PM  
 ### 📍 **Location:** Riverwood Trail, Mississauga  
 ### 💰 **Cost:** Free - Thanks to our sponsor Sheridan Student Union 💪
+### 💰 **Emergency Contact:** 647 6322279 - Manh Phu  
 
 We are welcome everyone - from Sheridan student to friend and family!
 
