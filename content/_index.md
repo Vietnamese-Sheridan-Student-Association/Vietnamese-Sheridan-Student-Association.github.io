@@ -8,46 +8,6 @@ We are thrilled to have you here! The **Vietnamese Student Association (VSA)** a
 
 ---
 
-# 🌟 **Join Us for an Unforgettable Day at Riverwood Trail!** 🌟  
-
-{{< gallery >}}
-  <img src="Hiking.png" class="grid-w50" />
-{{< /gallery >}}
-
-### 📅  **Date:**  **May 3rd, 2025**  
-### 🕙 **Time:** 10:00 AM – 4:00 PM  
-### 📍 **Location:** Riverwood Trail, Mississauga  
-### 💰 **Cost:** Free - Thanks to our sponsor Sheridan Student Union 💪
-### 💰 **Emergency Contact:** 647 6322279 - Manh Phu  
-
-We are welcome everyone - from Sheridan student to friend and family!
-
-Get ready for a fun-filled day at our kid- and pet-friendly event! 🐾👨‍👩‍👧‍👦 Enjoy a 3.1 km scenic hike through lush forests 🌳, alongside peaceful rivers 🌊, with opportunities to spot wildlife 🦌 and take in stunning views. 
-
-
-Hẹn gặp mọi người tại Riverwood Trail ngày 3/5 nha!
-Điểm danh những thứ không thể thiếu nè: nước, snack, áo khoác, kem chống nắng, mũ nón, kính râm. Đặc biệt là nước nhen!
-📍 Chi tiết vị trí và đồ cần mang theo: xem ảnh phía dưới nhé! Không lo lạc đường đâu nè🤗
-
-{{< gallery >}}
-  <img src="banner.jpg" class="grid-w33" />
-  <img src="map.jpg" class="grid-w33" />
-  <img src="bring.jpg" class="grid-w33" />
-{{< /gallery >}}
-
-**Activities Include:**
-- 🤝 Team-building games  
-- 🎉 Icebreakers  
-- 🧺 Relaxing picnic area  
-
-🌲 Get Ready for 𝐄𝐜𝐡𝐨𝐞𝐬 𝐨𝐟 𝐒𝐞𝐫𝐞𝐧𝐢𝐭𝐲! 🌲
-See you all at Riverwood Trail on May 3rd!
-Here’s a quick checklist of must-bring items: water, snacks, a jacket, sunscreen, hat or cap, and sunglasses. Don’t forget water—super important!
-📍 Details about the location and what to bring: check the image below! Don’t worry, you won’t get lost 🤗
-
----
-
-
 {{< typeit 
   tag=h1
   speed=10
