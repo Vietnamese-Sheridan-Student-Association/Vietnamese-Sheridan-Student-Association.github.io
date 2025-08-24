@@ -14,11 +14,6 @@ Event Related:  [event@sheridanvsa.ca](mailto:event@sheridanvsa.ca)
 Sponsorship:  [vsa.sheridancollege@gmail.com](mailto:vsa.sheridancollege@gmail.com)  
 
 
-## 📱 Phone
-Give us a call at: +1 (416) 857-6607 - President - Ben Nguyen
-
-
-
 ## 🌐 Social Media
 
 Follow us on social media:
