@@ -12,51 +12,39 @@ We are thrilled to have you here! The **Vietnamese Student Association (VSA)** a
   tag=h1
   speed=10
 >}}
-🔥 VSA SHERIDAN IS LOOKING FOR EXECUTIVE TEAM & CLUB COORDINATORS! 🔥  {{< /typeit >}}
+🌕 [𝗠𝗶𝗱-𝗔𝘂𝘁𝘂𝗺𝗻 𝗙𝗲𝘀𝘁𝗶𝘃𝗮𝗹 𝗘𝘃𝗲𝗻𝘁 𝟮𝟬𝟮𝟱] Once Upon the Moon - An Old Tale of the Moon 🌕 {{< /typeit >}}
 
 
-# Become a Member
+Hey VSA fam! How’s Fall semester going so far? 😩 You probably need a little break to de-stress and maybe make some new friends too, right?
 
-We are excited to have you join our community! To register and become a member, please follow the link below:
-## **[Register Here](https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2F18aj2xzOYZMN3J2AScvola3tjTapwPW2pZqDIpKXYxQM%2Fedit%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR1VyGuBUW5IqnknGm_8XqRbNJ6-u8_FgdbjLzCACkk3wU1JsbQqtlgZHWQ_aem_hE0f5d9kv2YIRnQz17oOsQ&h=AT0vB6D6leUa0u6NU7_t97jadSEjcjmfm--pSPnECddyettAQFOGCrxJ_VH0c_bnO891Qgu7HHx-eTppiCRA3eI7QcOmCXL96PhJGngTvcuYhXVXP6KCK2CjZDTljoHFNV_uobhrJz0nug5GrbR-WN1QJg&__tn__=-UK-R&c[0]=AT0iIIuWgvtFQ7m0Hsy0Dnb8_5p3OHrXPYbnxaLAg-tDBTCh-dB8R7144pjktxUEftBIrpXpoO5rSn7yx6O4klPBg4GQSHHMJKoqlF6XmAwc6fBZrv16ocqyF1Z8cc0A5Yrv2yp4Jsj9b7uvtSERApfkM2EHrLusOUhJ_cY7gYY9Qr4h8c_aZJlYe3IbxRE6i0E4m5gpu7ROrUXFztMiP6FO9g)**
+Oh, and here’s a fun question for you: Which mooncake team are you on – mung bean, mixed filling, or do you love them all? 🍵🥮 Drop a comment below so we know!
 
+🔥 No matter which team you’re on, don’t hesitate to join us at this event 🎉🥮
 
-💥 Bạn đã sẵn sàng bùng nổ cùng VSA chưa? 💥  
-Bạn muốn gặp gỡ bạn bè mới, tổ chức sự kiện xịn xò và làm nên những kỷ niệm đáng nhớ tại Sheridan? ĐÂY CHÍNH LÀ CƠ HỘI CỦA BẠN!
+📅 Time: 6:00 PM – 9:00 PM, Saturday, October 11, 2025
+📍 Location: Room C202, HMC Campus
+👥 Registration link: https://forms.gle/jrkXxTYq1GPcy6KN7
 
-### 💡 Lý do nên tham gia?
-- ✅ Gặp gỡ bạn bè mới, xây dựng cộng đồng sinh viên Việt!
-- ✅ Học hỏi kỹ năng tổ chức sự kiện, teamwork, sáng tạo nội dung!
-- ✅ CV đẹp hơn, networking xịn hơn, trải nghiệm đáng giá hơn!
+(Form closes at 11:59 PM, October 5, 2025)
 
-💥 CÒN CHỜ GÌ NỮA? 💥  
-📩 Đăng ký ngay để gia nhập team VSA!  
-📍 Hạn chót apply: Hết ngày Thứ 2, 17/3/2025
-
-🔥 LET'S MAKE VSA LIT TOGETHER! 🔥
+Don’t miss out! Tag your friends and sign up now to “light the lanterns” with us 🌙✨
 
 ---
 
-## 🔥 VSA SHERIDAN IS LOOKING FOR EXECUTIVE TEAM & CLUB COORDINATORS! 🔥
+Ây dô các bạn VSA ơi! Kỳ Fall này các bạn học như thế nào rồi nè? 😩 Chắc hẳn các bạn cần một khoảng thời gian để xả stress, cũng như kết bạn thêm những bạn mới đúng không?
 
-💥 Ready to level up your student life with VSA? 💥  
-Want to meet new friends, host cool events, and create unforgettable memories? THIS IS YOUR CHANCE!
+À mà nè, VSA có câu hỏi nho nhỏ dành cho bạn: Bạn thuộc team nào á - đậu xanh hay thập cẩm hay là vị nào cũng cân hết? Comment ở dưới để tụi mình biết nhé!
 
-### 💡 Why join?
-- ✅ Meet new friends and build an amazing Vietnamese student community!
-- ✅ Gain leadership, teamwork, and event planning skills!
-- ✅ Boost your resume, expand your network, and have unforgettable experiences!
+🔥 Dù bạn ở team nào đi chăng nữa thì đừng ngần ngại tham gia sự kiện cùng tụi mình nhé 🎉🥮
 
-💥 DON’T MISS OUT! 💥  
-📩 Apply now and be part of VSA!  
-📍 Application Deadline: By the end of Monday, March 17, 2025
+📅 Thời gian: 6:00 PM - 9:00 PM, Thứ 7 11/10/2025
+📍 Địa điểm: Room C202, HMC Campus
+👥 Link đăng ký tham gia: https://forms.gle/jrkXxTYq1GPcy6KN7
 
-🔥 LET’S MAKE VSA LIT TOGETHER! 🔥
+Tụi mình đóng form vào lúc 11:59PM, ngày 5/10/2025
+
+Đừng bỏ lỡ đó! Tag bạn bè và đăng ký ngay để cùng "rước lồng đèn" với tụi mình nhé 🌙✨ 
 
 {{< gallery >}}
-  <img src="./engagement-coordinatior.jpeg" class="grid-w33" />
-  <img src="./content-creator.jpeg" class="grid-w33" />
-  <img src="./academic.jpeg" class="grid-w33" />
-  <img src="./art.jpeg" class="grid-w33" />
-  <img src="./sport.jpeg" class="grid-w33" />
+  <img src="moon.jpg"/>
 {{< /gallery >}}

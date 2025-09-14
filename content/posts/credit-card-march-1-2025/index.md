@@ -1,12 +1,12 @@
 ---
-title: "Thẻ Debit & Credit – Bạn đã dùng đúng chưa? 🤔"
+title: "Debit & Credit Cards – Have you been using them correctly? 🤔"
 date: 2025-03-01
 draft: false
-summary: "Cách sử dụng thẻ Debit và Credit đúng cách"
+summary: "How to Use Debit and Credit Cards the Right Way"
 layout: "simple"
 ---
 
-### Thẻ Debit & Credit – Bạn đã dùng đúng chưa? 🤔
+### Debit & Credit Cards – Have you been using them correctly? 🤔
 
 {{< badge >}}
 New article!

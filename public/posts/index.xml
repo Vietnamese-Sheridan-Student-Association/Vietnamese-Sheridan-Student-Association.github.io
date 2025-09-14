@@ -8,26 +8,36 @@
     <language>en</language>
     <managingEditor>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</managingEditor>
     <webMaster>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</webMaster>
-    <copyright>&amp;copy; 2025 VSA Hong Cho Copy - All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2025 VSA - vsa.sheridancollege@gmail.com</copyright>
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Thẻ Debit &amp; Credit – Bạn đã dùng đúng chưa? 🤔</title>
+      <title>Summer Food Adventures with VSA</title>
+      <link>http://localhost:1313/posts/eat-sep13-2025/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <author>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</author>
+      <guid>http://localhost:1313/posts/eat-sep13-2025/</guid>
+      <description>Exploring local restaurants and sharing summer moments together 🤔</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/eat-sep13-2025/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Debit &amp; Credit Cards – Have you been using them correctly? 🤔</title>
       <link>http://localhost:1313/posts/credit-card-march-1-2025/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <author>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</author>
       <guid>http://localhost:1313/posts/credit-card-march-1-2025/</guid>
-      <description>Cách sử dụng thẻ Debit và Credit đúng cách</description>
+      <description>How to Use Debit and Credit Cards the Right Way</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/credit-card-march-1-2025/feature.jpg" />
     </item>
     
     <item>
-      <title>Cách Mình Đã Chinh Phục Scholarship $1000 Và $10000 Trong Năm Học Thứ Ba Tại Sheridan College</title>
+      <title>How I got $1,000 and $10,000 Scholarships in My Third Year at Sheridan College</title>
       <link>http://localhost:1313/posts/scholarship-jan-7-2025/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       <author>vsa.sheridancollege@gmail.com (Vietnamese Student Association)</author>
       <guid>http://localhost:1313/posts/scholarship-jan-7-2025/</guid>
-      <description>Hãy cùng tìm hiểu làm sao để có được học bổng ngàn đô nhé</description>
+      <description>Let’s explore how to land thousand-dollar scholarships!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/scholarship-jan-7-2025/feature.jpg" />
     </item>
     

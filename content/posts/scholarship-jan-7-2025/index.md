@@ -1,10 +1,11 @@
 ---
-title: "Cách Mình Đã Chinh Phục Scholarship $1000 Và $10000 Trong Năm Học Thứ Ba Tại Sheridan College"
+title: "How I got $1,000 and $10,000 Scholarships in My Third Year at Sheridan College"
 date: 2025-01-07
 draft: false
-summary: "Hãy cùng tìm hiểu làm sao để có được học bổng ngàn đô nhé"
+summary: "Let’s explore how to land thousand-dollar scholarships!"
 layout: "simple"
 ---
+
 
 
 
